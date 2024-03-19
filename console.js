@@ -1,8 +1,8 @@
-console.log("Hello world")
-console.log("Hello world")
-function main(){
-  return null;
+console.log("Hello world");
+
+function main() {
+  console.log(1);
 }
-main()
+main();
 
 // console.log(main)
